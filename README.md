@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Based_in-Malaysia_🇲🇾-1D9E75?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=0F6E56&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Ramaneiss+%F0%9F%91%8B;Data+Analytics+%7C+Machine+Learning+%7C+Real-Time+Systems;Making+models+fair%2C+not+just+accurate;Turning+coursework+into+measurable+results" />
+</p>
+
 ---
 
 ## 📋 Model card
@@ -20,6 +24,43 @@
 | **Domain** | Medical imaging fairness · time-series forecasting · NLP · real-time systems · database security |
 | **Architecture** | Python and SQL core, with Java, C, C++, R and Rust depending on what the problem wants |
 | **Status** | Open to graduate and internship opportunities |
+
+<details>
+<summary><b>🔧 Config</b> — the same thing, in code</summary>
+
+<br/>
+
+```python
+class Ramaneiss:
+    name     = "Ramaneiss Pillai"
+    location = "Seremban, Negeri Sembilan 🇲🇾"
+    degree   = "BSc (Hons) Computer Science — Data Analytics @ APU"
+    gpa      = 3.65
+
+    core = ["Python", "SQL", "R"]
+    also = ["Java", "C", "C++", "Rust"]
+
+    ml    = ["PyTorch", "TensorFlow", "Keras", "scikit-learn"]
+    bi    = ["Power BI", "SAS Viya", "SAS Enterprise Miner"]
+    stack = ["Flask", "React", "Microsoft SQL Server"]
+
+    speaks = {
+        "fluent":       ["English", "Malay", "Tamil"],
+        "conversational": ["Mandarin"],
+    }
+
+    def what_i_care_about(self):
+        return (
+            "A model that reports 90% accuracy and hides a 30-point "
+            "gap between demographic groups isn't a good model. "
+            "Measure the gap, then close it."
+        )
+
+    def currently(self):
+        return "Finishing my FYP and looking for a graduate role."
+```
+
+</details>
 
 ---
 
@@ -115,16 +156,6 @@ Model fairness     → beyond preprocessing: in-processing constraints, post-hoc
 Cloud data         → AWS data pipelines at production scale
 Systems Rust       → async runtimes and lock-free structures beyond the RTS coursework
 ```
-
----
-
-## ⚠️ Known limitations
-
-Stated plainly, because a model card that only lists strengths isn't a model card.
-
-- Most of my deployment experience is coursework and one internship — I've not yet maintained a system through a long production lifetime.
-- My cloud work is AWS Academy and coursework depth, not production infrastructure ownership.
-- Strongest in Python and SQL; Java, C and Rust are solid for the problems I've used them on rather than daily drivers.
 
 ---
 
