@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F6E56,100:0B2027&height=140&section=header&text=Ramaneiss%20Pillai&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20Computer%20Science%20%40%20APU&descAlignY=68&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F6E56,100:0B2027&height=140&section=header&text=Ramaneiss%20Pillai&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20Computer%20Science%20%40%20APU&descAlignY=68&descSize=16" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramaneiss"><img src="https://img.shields.io/badge/LinkedIn-ramaneiss-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
