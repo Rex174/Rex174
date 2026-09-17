@@ -21,7 +21,7 @@
 | **Intended use** | Data analytics, machine learning engineering and backend-leaning software roles |
 | **Domain** | Medical imaging fairness · Time-series forecasting · NLP · Real-time systems · Database security |
 | **Architecture** | Python and SQL core, with Java, C, C++, R and Rust |
-| **Status** | Open to graduate and apprenticeship opportunities |
+| **Status** | Open to fresh-grad and apprenticeship opportunities |
 
 ---
 
@@ -134,4 +134,4 @@ Systems Rust       → async runtimes and lock-free structures beyond the RTS co
 
 ---
 
-<p align="center"> <em>"A model that's accurate on average can still fail the people who need it most."</em><br/> <sub>Open to graduate and internship opportunities — <a href="https://www.linkedin.com/in/ramaneiss">let's talk</a>.</sub> </p>
+<p align="center"> <em>"A model that's accurate on average can still fail the people who need it most."</em><br/> <sub>Open to fresh-grad and apprenticeship opportunities — <a href="https://www.linkedin.com/in/ramaneiss">let's talk</a>.</sub> </p>
