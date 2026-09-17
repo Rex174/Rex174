@@ -15,52 +15,13 @@
 
 ## 📋 Model card
 
-> Most of my work is machine learning, so this profile is documented the way a released model would be.
-
 | | |
 |---|---|
 | **Version** | Final year, BSc (Hons) Computer Science — Data Analytics, APU · GPA 3.65 |
-| **Intended use** | Data analytics, machine learning engineering, and backend-leaning software roles |
-| **Domain** | Medical imaging fairness · time-series forecasting · NLP · real-time systems · database security |
-| **Architecture** | Python and SQL core, with Java, C, C++, R and Rust depending on what the problem wants |
-| **Status** | Open to graduate and internship opportunities |
-
-<details>
-<summary><b>🔧 Config</b> — the same thing, in code</summary>
-
-<br/>
-
-```python
-class Ramaneiss:
-    name     = "Ramaneiss Pillai"
-    location = "Seremban, Negeri Sembilan 🇲🇾"
-    degree   = "BSc (Hons) Computer Science — Data Analytics @ APU"
-    gpa      = 3.65
-
-    core = ["Python", "SQL", "R"]
-    also = ["Java", "C", "C++", "Rust"]
-
-    ml    = ["PyTorch", "TensorFlow", "Keras", "scikit-learn"]
-    bi    = ["Power BI", "SAS Viya", "SAS Enterprise Miner"]
-    stack = ["Flask", "React", "Microsoft SQL Server"]
-
-    speaks = {
-        "fluent":       ["English", "Malay", "Tamil"],
-        "conversational": ["Mandarin"],
-    }
-
-    def what_i_care_about(self):
-        return (
-            "A model that reports 90% accuracy and hides a 30-point "
-            "gap between demographic groups isn't a good model. "
-            "Measure the gap, then close it."
-        )
-
-    def currently(self):
-        return "Finishing my FYP and looking for a graduate role."
-```
-
-</details>
+| **Intended use** | Data analytics, machine learning engineering and backend-leaning software roles |
+| **Domain** | Medical imaging fairness · Time-series forecasting · NLP · Real-time systems · Database security |
+| **Architecture** | Python and SQL core, with Java, C, C++, R and Rust |
+| **Status** | Open to graduate and apprenticeship opportunities |
 
 ---
 
