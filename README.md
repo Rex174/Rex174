@@ -130,14 +130,8 @@ Systems Rust       → async runtimes and lock-free structures beyond the RTS co
 
 ## 📈 Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rex174&show_icons=true&hide_border=true&title_color=0F6E56&icon_color=1D9E75&theme=graywhite" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rex174&layout=compact&hide_border=true&title_color=0F6E56&theme=graywhite" />
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/Rex174?style=for-the-badge&color=0F6E56&labelColor=1a1a2e" /> <img src="https://img.shields.io/github/last-commit/Rex174/FYP-MelanoScan-HMS?style=for-the-badge&color=1D9E75&labelColor=1a1a2e&label=last%20commit" /> </p>
 
 ---
 
-<p align="center">
-  <em>"A model that's accurate on average can still fail the people who need it most."</em><br/>
-  <sub>Open to graduate and internship opportunities — <a href="https://www.linkedin.com/in/ramaneiss">let's talk</a>.</sub>
-</p>
+<p align="center"> <em>"A model that's accurate on average can still fail the people who need it most."</em><br/> <sub>Open to graduate and internship opportunities — <a href="https://www.linkedin.com/in/ramaneiss">let's talk</a>.</sub> </p>
