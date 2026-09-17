@@ -27,22 +27,20 @@
 
 ## 🧪 Evaluation results
 
-The projects below are the ones I'd point a reviewer to first — each has a measurable outcome rather than a feature list.
-
 | Project | Domain | Result |
 |---|---|---|
-| **[MelanoScan — bias reduction in melanoma detection](https://github.com/Rex174/FYP-MelanoScan-HMS)** | Computer vision, fairness | Melanoma sensitivity **39.16% → 53.01%** on HAM10000, with the fairness gap below baseline. Externally validated on ISIC 2020: **13.5% → 37.7%** |
+| **[MelanoScan — bias reduction in melanoma detection](https://github.com/Rex174/FYP-MelanoScan-HMS)** | Computer vision, fairness | Melanoma sensitivity **39.16% → 53.01%** on HAM10000 with the fairness gap below baseline. Externally validated on ISIC 2020: **13.5% → 37.7%** |
 | **PM2.5 air quality forecasting** | Deep learning, time series | **R² 0.896**, RMSE **33.055 µg/m³** across 420,768 records from 12 Beijing monitoring stations |
 | **[Text analytics & sentiment classification](https://github.com/Rex174/TXSA-Assignment)** | NLP | **91.23%** accuracy — TF-IDF + logistic regression after hyperparameter tuning |
 | **[Satellite onboard control system](https://github.com/Rex174/RTS-Assignment)** | Hard real-time, Rust | **100% deadline adherence over 88,887 executions**, sub-1ms jitter, rate-monotonic scheduling across 4 prioritised tasks |
-| **Estate Management System — DB security** | Database security | RBAC across 6 roles, 7 restricted views and 12 validated procedures, closing 10 mapped threat scenarios |
+| **Estate Management System — DB security** | Database security | RBAC across 6 roles, 7 restricted views and 12 validated procedures closing 10 mapped threat scenarios |
 | **Smart parking system** | Concurrency | 150 threads contending for 50 spaces — lock-based mutual exclusion, atomic counters, fault injection with retry |
 
-### What the headline result actually means
+### FYP Project Breakdown
 
-Melanoma models trained on public dermatology data are reliably worse on older patients, on certain body sites, and across sexes. My FYP attacks that in **preprocessing rather than in the loss function** — intersectional stratified sampling, distribution-aware reweighting, and quality-controlled WGAN-GP augmentation — then validates the effect through a six-model EfficientNet-B0 ablation. The best model is deployed inside a Flask + React hospital system with a live OLAP dashboard that reports fairness alongside accuracy.
+Melanoma models trained on public dermatology data are reliably worse on older patients on certain body sites and across sexes. My FYP attacks that in **preprocessing rather than in the loss function** — intersectional stratified sampling, distribution-aware reweighting and quality-controlled WGAN-GP augmentation — then validates the effect through a six-model EfficientNet-B0 ablation. The best model is deployed inside a Flask + React hospital system with a live OLAP dashboard that reports fairness alongside accuracy.
 
-Raising sensitivity from 39% to 53% still leaves roughly half of melanomas missed. That's the honest number, and it's why the deployment surfaces fairness metrics instead of hiding them behind a single accuracy figure.
+Raising sensitivity from 39% to 53% still leaves roughly half of melanomas missed. This is why the deployment includes fairness metrics instead of hiding or only highlighting on the single accuracy metric.
 
 ---
 
@@ -91,7 +89,7 @@ Raising sensitivity from 39% to 53% still leaves roughly half of melanomas misse
 
 `Power Apps` `Power Automate` `SharePoint` `Process Automation` `Digital Transformation`
 
-Built internal tooling on the Microsoft Power Platform for the IT Governance function — automating manual governance workflows, developing SharePoint sites, and running market research to support digital transformation decisions.
+Built internal tooling on the Microsoft Power Platform for the IT Governance function — automating manual governance workflows, developing SharePoint sites and running market research to support digital transformation decisions.
 
 ---
 
@@ -127,8 +125,6 @@ Systems Rust       → async runtimes and lock-free structures beyond the RTS co
 | [**FYP-MelanoScan-HMS**](https://github.com/Rex174/FYP-MelanoScan-HMS) | Bias-reduction preprocessing framework, EfficientNet-B0 ablation, Flask + React hospital system with OLAP dashboard |
 | [**RTS-Assignment**](https://github.com/Rex174/RTS-Assignment) | Satellite onboard control system in Rust — RMS scheduling, UDP telemetry, fault injection |
 | [**TXSA-Assignment**](https://github.com/Rex174/TXSA-Assignment) | Tokenisation comparison and supervised text classification with TF-IDF |
-
-Remaining university projects — deep learning forecasting, database security, business intelligence, data mining, concurrency, and the earlier Java, C and Python systems — are being migrated into this account. [See all repositories →](https://github.com/Rex174?tab=repositories)
 
 ---
 
