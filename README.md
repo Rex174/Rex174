@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=0F6E56&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Ramaneiss+%F0%9F%91%8B;Data+Analytics+%7C+Machine+Learning+%7C+Real-Time+Systems;Making+models+fair%2C+not+just+accurate;Turning+coursework+into+measurable+results" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=0F6E56&center=true&vCenter=true&width=880&height=55&lines=Hi%2C+I%27m+Ramaneiss+%F0%9F%91%8B;Data+Analytics+%7C+Machine+Learning+%7C+Real-Time+Systems;Making+models+fair%2C+not+just+accurate;Turning+coursework+into+measurable+results" />
 </p>
 
 ---
